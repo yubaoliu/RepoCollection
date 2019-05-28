@@ -1,0 +1,6 @@
+[submodule "davidtvs-PyTorch-ENet"]
+	path = davidtvs-PyTorch-ENet
+	url = https://github.com/davidtvs/PyTorch-ENet.git
+[submodule "FCN-tensorflow-ADE20k"]
+	path = FCN-tensorflow-ADE20k
+	url = https://github.com/worstprogrammerCN/FCN-tensorflow-ADE20k.git
