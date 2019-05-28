@@ -7,3 +7,6 @@
 [submodule "shekkizh-FCN.tensorflow"]
 	path = shekkizh-FCN.tensorflow
 	url = https://github.com/shekkizh/FCN.tensorflow.git
+[submodule "semantic-segmentation-pytorch"]
+	path = semantic-segmentation-pytorch
+	url = https://github.com/CSAILVision/semantic-segmentation-pytorch.git
