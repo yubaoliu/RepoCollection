@@ -4,3 +4,6 @@
 [submodule "FCN-tensorflow-ADE20k"]
 	path = FCN-tensorflow-ADE20k
 	url = https://github.com/worstprogrammerCN/FCN-tensorflow-ADE20k.git
+[submodule "shekkizh-FCN.tensorflow"]
+	path = shekkizh-FCN.tensorflow
+	url = https://github.com/shekkizh/FCN.tensorflow.git
