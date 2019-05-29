@@ -26,3 +26,6 @@
 [submodule "DA-RNN-yuxng"]
 	path = DA-RNN-yuxng
 	url = https://github.com/yuxng/DA-RNN.git
+[submodule "blam-erik-nelson"]
+	path = blam-erik-nelson
+	url = https://github.com/erik-nelson/blam.git
