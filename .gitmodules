@@ -23,3 +23,6 @@
 [submodule "CSAILVision-NetDissect"]
 	path = CSAILVision-NetDissect
 	url = https://github.com/CSAILVision/NetDissect.git
+[submodule "DA-RNN-yuxng"]
+	path = DA-RNN-yuxng
+	url = https://github.com/yuxng/DA-RNN.git
