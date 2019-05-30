@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CSAILVision-NetDissect" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DA-RNN-yuxng" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FCN-tensorflow-ADE20k" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Mask_RCNN" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PSPNet-tensorflow-hellochick" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/blam-erik-nelson" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/davidtvs-PyTorch-ENet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jacklanchantin-SceneLabelingConvNet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/semantic-segmentation-pytorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/semantic_slam-floatlazer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shekkizh-FCN.tensorflow" vcs="Git" />
+  </component>
+</project>
