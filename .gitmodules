@@ -32,3 +32,48 @@
 [submodule "semantic_slam-floatlazer"]
 	path = catkin_ws/src/semantic_slam-floatlazer
 	url = https://github.com/floatlazer/semantic_slam.git
+[submodule "catkin_ws/src/geometry_utils"]
+	path = catkin_ws/src/geometry_utils
+	url = https://github.com/erik-nelson/geometry_utils.git
+[submodule "catkin_ws/src/parameter_utils"]
+	path = catkin_ws/src/parameter_utils
+	url = https://github.com/erik-nelson/parameter_utils.git
+[submodule "catkin_ws/src/measurement_synchronizer"]
+	path = catkin_ws/src/measurement_synchronizer
+	url = https://github.com/erik-nelson/measurement_synchronizer.git
+[submodule "catkin_ws/src/point_cloud_filter"]
+	path = catkin_ws/src/point_cloud_filter
+	url = https://github.com/erik-nelson/point_cloud_filter.git
+[submodule "catkin_ws/src/point_cloud_localization"]
+	path = catkin_ws/src/point_cloud_localization
+	url = https://github.com/erik-nelson/point_cloud_localization.git
+[submodule "catkin_ws/src/point_cloud_mapper"]
+	path = catkin_ws/src/point_cloud_mapper
+	url = https://github.com/erik-nelson/point_cloud_mapper.git
+[submodule "catkin_ws/src/point_cloud_odometry"]
+	path = catkin_ws/src/point_cloud_odometry
+	url = https://github.com/erik-nelson/point_cloud_odometry.git
+[submodule "catkin_ws/src/point_cloud_visualizer"]
+	path = catkin_ws/src/point_cloud_visualizer
+	url = https://github.com/erik-nelson/point_cloud_visualizer.git
+[submodule "catkin_ws/src/blam_slam"]
+	path = catkin_ws/src/blam_slam
+	url = https://github.com/erik-nelson/blam_slam.git
+[submodule "catkin_ws/src/blam_example"]
+	path = catkin_ws/src/blam_example
+	url = https://github.com/erik-nelson/blam_example.git
+[submodule "catkin_ws/src/laser_loop_closure"]
+	path = catkin_ws/src/laser_loop_closure
+	url = https://github.com/erik-nelson/laser_loop_closure.git
+[submodule "catkin_ws/src/pose_graph_msgs"]
+	path = catkin_ws/src/pose_graph_msgs
+	url = https://github.com/erik-nelson/pose_graph_msgs.git
+[submodule "gtsam"]
+	path = gtsam
+	url = https://github.com/borglab/gtsam.git
+[submodule "M2Det-qijiezhao"]
+	path = M2Det-qijiezhao
+	url = https://github.com/qijiezhao/M2Det.git
+[submodule "catkin_ws/src/ROS-Academy-for-Beginners"]
+	path = catkin_ws/src/ROS-Academy-for-Beginners
+	url = https://github.com/sychaichangkun/ROS-Academy-for-Beginners.git
