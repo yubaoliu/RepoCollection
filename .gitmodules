@@ -30,5 +30,5 @@
 	path = blam-erik-nelson
 	url = https://github.com/erik-nelson/blam.git
 [submodule "semantic_slam-floatlazer"]
-	path = semantic_slam-floatlazer
+	path = src semantic_slam-floatlazer
 	url = https://github.com/floatlazer/semantic_slam.git
