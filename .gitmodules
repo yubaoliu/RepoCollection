@@ -83,3 +83,9 @@
 [submodule "GSLAM"]
 	path = GSLAM
 	url = https://github.com/zdzhaoyong/GSLAM.git
+[submodule "mtapi"]
+	path = mtapi
+	url = https://github.com/vdemydiuk/mtapi.git
+[submodule "catkin_ws/src/darknet_ros"]
+	path = catkin_ws/src/darknet_ros
+	url = https://github.com/leggedrobotics/darknet_ros.git
