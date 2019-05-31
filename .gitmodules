@@ -80,3 +80,6 @@
 [submodule "mtapi"]
 	path = mtapi
 	url = https://github.com/vdemydiuk/mtapi.git
+[submodule "catkin_ws/src/semantic_slam-floatlazer"]
+	path = catkin_ws/src/semantic_slam-floatlazer
+	url = https://github.com/floatlazer/semantic_slam.git
