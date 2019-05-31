@@ -68,12 +68,18 @@
 [submodule "catkin_ws/src/pose_graph_msgs"]
 	path = catkin_ws/src/pose_graph_msgs
 	url = https://github.com/erik-nelson/pose_graph_msgs.git
-[submodule "gtsam"]
-	path = gtsam
-	url = https://github.com/borglab/gtsam.git
 [submodule "M2Det-qijiezhao"]
 	path = M2Det-qijiezhao
 	url = https://github.com/qijiezhao/M2Det.git
 [submodule "catkin_ws/src/ROS-Academy-for-Beginners"]
 	path = catkin_ws/src/ROS-Academy-for-Beginners
 	url = https://github.com/sychaichangkun/ROS-Academy-for-Beginners.git
+[submodule "mastering_ros"]
+	path = mastering_ros
+	url = https://github.com/qboticslabs/mastering_ros.git
+[submodule "darknet"]
+	path = darknet
+	url = https://github.com/pjreddie/darknet.git
+[submodule "GSLAM"]
+	path = GSLAM
+	url = https://github.com/zdzhaoyong/GSLAM.git
