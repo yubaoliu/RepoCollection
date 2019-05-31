@@ -1,0 +1,6 @@
+<launch>
+    <!-- kinect2-->
+    <include file="$(find kinect2_bridge)/launch/kinect2_bridge.launch">
+
+</include>
+</launch>

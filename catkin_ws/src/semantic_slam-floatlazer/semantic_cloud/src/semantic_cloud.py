@@ -29,6 +29,7 @@ import torch
 from ptsemseg.models import get_model
 from ptsemseg.utils import convert_state_dict
 
+
 def color_map(N=256, normalized=False):
     """
     Return Color Map in PASCAL VOC format (rgb)

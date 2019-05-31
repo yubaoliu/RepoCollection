@@ -10,6 +10,7 @@ set(PACKAGE_DEPENDENCIES
 find_package(catkin REQUIRED COMPONENTS ${PACKAGE_DEPENDENCIES})
 
 include_directories(
+  include
   ${catkin_INCLUDE_DIRS}
 )
 
