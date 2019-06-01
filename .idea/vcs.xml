@@ -5,13 +5,37 @@
     <mapping directory="$PROJECT_DIR$/CSAILVision-NetDissect" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/DA-RNN-yuxng" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/FCN-tensorflow-ADE20k" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GSLAM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/M2Det-qijiezhao" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Mask_RCNN" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/PSPNet-tensorflow-hellochick" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/blam-erik-nelson" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/catkin_ws/src/ROS-Academy-for-Beginners" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/catkin_ws/src/blam_example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/catkin_ws/src/blam_slam" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/catkin_ws/src/geometry_utils" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/catkin_ws/src/laser_loop_closure" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/catkin_ws/src/measurement_synchronizer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/catkin_ws/src/parameter_utils" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/catkin_ws/src/point_cloud_filter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/catkin_ws/src/point_cloud_localization" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/catkin_ws/src/point_cloud_mapper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/catkin_ws/src/point_cloud_odometry" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/catkin_ws/src/point_cloud_visualizer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/catkin_ws/src/pose_graph_msgs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/catkin_ws/src/semantic_slam-floatlazer" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/davidtvs-PyTorch-ENet" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/jacklanchantin-SceneLabelingConvNet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mastering_ros" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mtapi" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/semantic-segmentation-pytorch" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/semantic_slam-floatlazer" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/shekkizh-FCN.tensorflow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/slambook" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/slambook/3rdparty/DBow3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/slambook/3rdparty/Pangolin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/slambook/3rdparty/Sophus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/slambook/3rdparty/ceres-solver" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/slambook/3rdparty/g2o" vcs="Git" />
   </component>
 </project>

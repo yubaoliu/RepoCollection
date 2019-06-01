@@ -83,3 +83,9 @@
 [submodule "catkin_ws/src/semantic_slam-floatlazer"]
 	path = catkin_ws/src/semantic_slam-floatlazer
 	url = https://github.com/floatlazer/semantic_slam.git
+[submodule "slambook"]
+	path = slambook
+	url = https://github.com/gaoxiang12/slambook.git
+[submodule "PyTorch-Tutorial"]
+	path = PyTorch-Tutorial
+	url = https://github.com/MorvanZhou/PyTorch-Tutorial.git
