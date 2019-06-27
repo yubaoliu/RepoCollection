@@ -80,12 +80,36 @@
 [submodule "mtapi"]
 	path = mtapi
 	url = https://github.com/vdemydiuk/mtapi.git
-[submodule "catkin_ws/src/semantic_slam-floatlazer"]
-	path = catkin_ws/src/semantic_slam-floatlazer
-	url = https://github.com/floatlazer/semantic_slam.git
 [submodule "slambook"]
 	path = slambook
 	url = https://github.com/gaoxiang12/slambook.git
 [submodule "PyTorch-Tutorial"]
 	path = PyTorch-Tutorial
 	url = https://github.com/MorvanZhou/PyTorch-Tutorial.git
+[submodule "catkin_ws/src/hdl_localization"]
+	path = catkin_ws/src/hdl_localization
+	url = https://github.com/koide3/hdl_localization.git
+[submodule "catkin_ws/src/ndt_omp-koide3"]
+	path = catkin_ws/src/ndt_omp-koide3
+	url = https://github.com/koide3/ndt_omp.git
+[submodule "catkin_ws/src/hdl_graph_slam"]
+	path = catkin_ws/src/hdl_graph_slam
+	url = https://github.com/koide3/hdl_graph_slam.git
+[submodule "pytorch-semseg-meetshah1995"]
+	path = pytorch-semseg-meetshah1995
+	url = https://github.com/meetshah1995/pytorch-semseg.git
+[submodule "d2l-zh-d2l-ai"]
+	path = d2l-zh-d2l-ai
+	url = https://github.com/d2l-ai/d2l-zh.git
+[submodule "d2l-en-d2l-ai"]
+	path = d2l-en-d2l-ai
+	url = https://github.com/d2l-ai/d2l-en.git
+[submodule "SiamMask"]
+	path = SiamMask
+	url = https://github.com/foolwood/SiamMask.git
+[submodule "darknet"]
+	path = darknet
+	url = https://github.com/pjreddie/darknet
+[submodule "caffe-segnet-cudnn5"]
+	path = caffe-segnet-cudnn5
+	url = https://github.com/TimoSaemann/caffe-segnet-cudnn5.git
