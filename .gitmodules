@@ -113,3 +113,15 @@
 [submodule "caffe-segnet-cudnn5"]
 	path = caffe-segnet-cudnn5
 	url = https://github.com/TimoSaemann/caffe-segnet-cudnn5.git
+[submodule "pytorch-segnet-Sayan98"]
+	path = pytorch-segnet-Sayan98
+	url = https://github.com/Sayan98/pytorch-segnet.git
+[submodule "Semantic-Aware-Attention-Based-Deep-Object-Co-segmentation"]
+	path = Semantic-Aware-Attention-Based-Deep-Object-Co-segmentation
+	url = https://github.com/sairin1202/Semantic-Aware-Attention-Based-Deep-Object-Co-segmentation.git
+[submodule "pytorch-unet-segnet"]
+	path = pytorch-unet-segnet
+	url = https://github.com/trypag/pytorch-unet-segnet.git
+[submodule "SegNet-Tutorial-alexgkendall"]
+	path = SegNet-Tutorial-alexgkendall
+	url = https://github.com/alexgkendall/SegNet-Tutorial.git

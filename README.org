@@ -1,7 +1,0 @@
-* Tensorflow
-**  worstprogrammerCN/FCN-tensorflow-ADE20k
-#+begin_src 
-git clone https://github.com/worstprogrammerCN/FCN-tensorflow-ADE20k
-#+end_src
-
-
